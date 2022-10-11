@@ -1,7 +1,7 @@
 import { entryPointUriPath, PERMISSIONS } from "./src/constants";
 
 const config = {
-    name: "Static bundles",
+     name: "Static bundles",
     entryPointUriPath: entryPointUriPath,
     cloudIdentifier: "gcp-us",
     env: {
