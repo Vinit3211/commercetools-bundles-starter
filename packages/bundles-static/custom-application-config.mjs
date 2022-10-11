@@ -10,7 +10,7 @@ const config = {
             url: "https://Global-BT2.vercel.app",
         },
         development: {
-            initialProjectKey: ""
+            initialProjectKey: "global-bt2"
         }
     },
     oAuthScopes: {
