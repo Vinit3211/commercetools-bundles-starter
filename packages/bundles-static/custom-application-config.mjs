@@ -6,8 +6,8 @@ const config = {
     cloudIdentifier: "gcp-us",
     env: {
         production: {
-            applicationId: "",
-            url: "",
+            applicationId: "cl946dvxj87256301v437gub1oh",
+            url: "https://Global-BT2.vercel.app",
         },
         development: {
             initialProjectKey: ""
