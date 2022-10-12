@@ -10,7 +10,7 @@ name: "Static bundles",
             url: "https://Global-BT2.vercel.app",
         },
         development: {
-            initialProjectKey: "global-bt2"
+            initialProjectKey: ""
         }
     },
     oAuthScopes: {
